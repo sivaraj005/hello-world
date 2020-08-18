@@ -1,0 +1,148 @@
+{
+  "feFeatureTemplateVOList": [
+    {
+      "feFeatureTemplate": {
+        "createDate": "2020-08-03 16:30:06",
+        "deleted": null,
+        "feFeatureTemplateId": "tivo:fete.3317454",
+        "feFeatureTemplateName": null,
+        "feFeatureTypeName": null,
+        "featureTemplateAttribute": [
+          {
+            "anonType": null,
+            "attributeType": "string",
+            "defaultValue": "integer",
+            "description": "Internal partner Id issued to this provider",
+            "feFeatureTemplateAttributeId": null,
+            "isAnonymized": "false",
+            "name": "providerPartnerId",
+            "reResolutionPolicy": "hierarchy",
+            "required": "true",
+            "resolutionPolicy": "hierarchy"
+          }
+        ],
+        "interfaceVO": null,
+        "transactionId": "feFeatureTemplateStore-1596472206815-3155-22",
+        "type": "feFeatureTemplate",
+        "updateDate": "2020-08-03 16:30:06"
+      }
+    },
+    {
+      "feFeatureTemplate": {
+        "createDate": "2020-08-03 16:29:05",
+        "deleted": null,
+        "feFeatureTemplateId": "tivo:fete.3317451",
+        "feFeatureTemplateName": null,
+        "feFeatureTypeName": null,
+        "featureTemplateAttribute": [
+          {
+            "anonType": null,
+            "attributeType": "string",
+            "defaultValue": "integer",
+            "description": "Internal partner Id issued to this provider",
+            "feFeatureTemplateAttributeId": null,
+            "isAnonymized": "false",
+            "name": "providerPartnerId",
+            "reResolutionPolicy": "hierarchy",
+            "required": "true",
+            "resolutionPolicy": "hierarchy"
+          }
+        ],
+        "interfaceVO": null,
+        "transactionId": "feFeatureTemplateStore-1596472145251-3155-21",
+        "type": "feFeatureTemplate",
+        "updateDate": "2020-08-03 16:29:05"
+      }
+    },
+    {
+      "feFeatureTemplate": {
+        "createDate": "2020-08-03 16:27:35",
+        "deleted": null,
+        "feFeatureTemplateId": "tivo:fete.3317448",
+        "feFeatureTemplateName": null,
+        "feFeatureTypeName": null,
+        "featureTemplateAttribute": [
+          {
+            "anonType": null,
+            "attributeType": "string",
+            "defaultValue": "integer",
+            "description": "Internal partner Id issued to this provider",
+            "feFeatureTemplateAttributeId": null,
+            "isAnonymized": "false",
+            "name": "providerPartnerId",
+            "reResolutionPolicy": "hierarchy",
+            "required": "true",
+            "resolutionPolicy": "hierarchy"
+          }
+        ],
+        "interfaceVO": null,
+        "transactionId": "feFeatureTemplateStore-1596472055198-3155-20",
+        "type": "feFeatureTemplate",
+        "updateDate": "2020-08-03 16:27:35"
+      }
+    },
+    {
+      "feFeatureTemplate": {
+        "createDate": "2020-07-31 00:54:51",
+        "deleted": null,
+        "feFeatureTemplateId": "tivo:fete.3315071",
+        "feFeatureTemplateName": null,
+        "feFeatureTypeName": null,
+        "featureTemplateAttribute": [
+          {
+            "anonType": null,
+            "attributeType": "string",
+            "defaultValue": "string",
+            "description": "Internal partner Id issued to this provider",
+            "feFeatureTemplateAttributeId": null,
+            "isAnonymized": "false",
+            "name": "providerPartnerId",
+            "reResolutionPolicy": "hierarchy",
+            "required": "true",
+            "resolutionPolicy": "hierarchy"
+          },
+          {
+            "anonType": null,
+            "attributeType": "string",
+            "defaultValue": "string",
+            "description": "Preferred drmType that client should use if client is capable.",
+            "feFeatureTemplateAttributeId": null,
+            "isAnonymized": "false",
+            "name": "preferredDrmType",
+            "reResolutionPolicy": "hierarchy",
+            "required": "false",
+            "resolutionPolicy": "hierarchy"
+          },
+          {
+            "anonType": null,
+            "attributeType": "boolean",
+            "defaultValue": "boolean",
+            "description": "Whether operator wants devices capable of having this feature to be provisioned with this feature",
+            "feFeatureTemplateAttributeId": null,
+            "isAnonymized": "false",
+            "name": "enabled",
+            "reResolutionPolicy": "hierarchy",
+            "required": "false",
+            "resolutionPolicy": "hierarchy"
+          },
+          {
+            "anonType": null,
+            "attributeType": "string",
+            "defaultValue": "string",
+            "description": "service group name",
+            "feFeatureTemplateAttributeId": null,
+            "isAnonymized": "false",
+            "name": "serviceGroupName",
+            "reResolutionPolicy": "hierarchy",
+            "required": "false",
+            "resolutionPolicy": "hierarchy"
+          }
+        ],
+        "interfaceVO": null,
+        "transactionId": "feFeatureTemplateStore-1596156891833-6206-33",
+        "type": "feFeatureTemplate",
+        "updateDate": "2020-07-31 00:54:51"
+      }
+    }
+  ]
+}
